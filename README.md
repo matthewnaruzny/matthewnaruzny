@@ -7,7 +7,7 @@
 </p>
 
 <div align='center'>
-    <a href="https://www.linkedin.com/in/matthew-naruzny/">
+    <a href="https://www.linkedin.com/in/matthewnaruzny/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/matt.naruzny/">
