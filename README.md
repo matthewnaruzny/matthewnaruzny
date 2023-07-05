@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-    Second year Computer Engineering student studying at the University of Alberta.
+    Third year Computer Engineering student studying at the University of Alberta.
 </p>
 
 <div align='center'>
