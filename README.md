@@ -5,7 +5,9 @@
 <p align='center'>
     Third year Computer Engineering student studying at the University of Alberta.
 </p>
-
+<h3 align='center'>
+    📫 How to reach me:
+</h3>
 <div align='center'>
     <a href="https://www.linkedin.com/in/matthewnaruzny/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -15,7 +17,7 @@
     </a>
 </div>
 <div align='center'>
-    Best way to Contact Me:
+    Best way to contact me is by email at:
     <a href="mailto:matthew@mnaruzny.com">
         matthew@mnaruzny.com
     </a>
