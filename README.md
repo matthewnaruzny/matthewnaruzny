@@ -12,11 +12,8 @@
     <a href="https://www.linkedin.com/in/matthewnaruzny/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-</div>
-<div align='center'>
-    Best way to contact me is by email at:
     <a href="mailto:matthew@mnaruzny.com">
-        matthew@mnaruzny.com
+        <img src="https://img.shields.io/badge/Email-B50000?style=for-the-badge&logoColor=white">
     </a>
 </div>
 
