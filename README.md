@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-    Fourth-year Computer Engineering student studying at the University of Alberta.
+    Fifth-year Computer Engineering student studying at the University of Alberta.
 </p>
 <h3 align='center'>
     📫 How to reach me:
